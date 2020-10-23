@@ -11,7 +11,6 @@ class Stack:
     def empty(self):
         return len(self._items) == 0
 
-    # allow the index error 
     def top(self):
         if self.empty():
             raise IndexError("top() on an empty stack")
@@ -20,7 +19,6 @@ class Stack:
     def push(self, item):
         self._items.append(item)
 
-    # also allow the index error
     def pop(self):
         if self.empty():
             raise IndexError("pop() on an empty stack")
