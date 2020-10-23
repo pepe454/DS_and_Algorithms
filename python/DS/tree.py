@@ -98,7 +98,7 @@ class BSTNode:
         return self
 
     def __repr__(self):
-        return f"[({self.key} : {self.value} -> {repr(self.left)} {repr(self.right)}]"
+        return f"[<{self.key}, {self.value}> : {repr(self.left)}, {repr(self.right)}]"
 
 class BST:
     node = BSTNode
@@ -206,6 +206,10 @@ class AVLNode(BSTNode):
     '''
     # def rotate1
     # def rotate2
+
+    def __repr__(self):
+        return f"[<{self.key},{self.value},{self.height}> : {repr(self.left)}, {repr(self.right)}]"
+
 
 class AVL(BST):
     node = AVLNode

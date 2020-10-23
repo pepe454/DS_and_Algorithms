@@ -5,7 +5,7 @@ from DS import AVL
 from DS import Stack
 from Algorithms import inorder
 
-class TestBST(unittest.TestCase, test_tree.TestTree):
+class TestAVL(unittest.TestCase, test_tree.TestTree):
     def maketree(self):
         return AVL()
 
