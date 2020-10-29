@@ -14,9 +14,9 @@ Linked Data Structures and Contiguous memory DS.
 ## Algorithms
 Paradigms: Greedy, Divide and Conquer, Dynamic Programming
 Variations: Randomized (Monte Carlo, Las Vegas), Parallel Algorithms 
-
 * Strings, Pattern Matching
+* Numerical Combinations
 * Sorting 
 * Searching and traversals
 * Graph Path Algorithms
-* Combinatorial:
+* Combinatorial

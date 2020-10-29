@@ -1,13 +1,13 @@
 # Progress
 
-## Data Structures: 
+## Data Structures 
 #### Stacks
 - [x] Simple Stack
 
 #### Queues
 - [x] Deque (double sided queue)
 
-#### Matrices:
+#### Matrices
 - [ ] 2d arrays
 - Composition of vectors
 
@@ -37,18 +37,18 @@
 Paradigms: Greedy, Divide and Conquer, Dynamic Programming
 Variations: Randomized (Monte Carlo, Las Vegas), Parallel Algorithms 
 
-#### Strings, Pattern Matching:
+#### Strings, Pattern Matching
 - [ ] Longest Common Substring
 - [ ] Pattern Finding 
 - [ ] Minimum Edit Distance
 
-#### Sorting: 
+#### Sorting 
 - [ ] Bucket Sort, Radix Sort
 - [ ] Merge: binary, k-way merge, (l,m) merge, s^2 way merge
 - [ ] Quicksort
 
-#### Numerical Computations:
-- [ ] Matrices: Inverse, Determinant, 
+#### Numerical Computations
+- [ ] Matrices: Inverse, Determinant, Multiplication, Eigenvalues
 - [ ] Prime Numbers: Eratosthenes, Factorization/Discrete Log
 
 #### Searching and traversals
@@ -61,17 +61,17 @@ Variations: Randomized (Monte Carlo, Las Vegas), Parallel Algorithms
 - [ ] Inorder
 - [ ] A*
 
-#### Graph Path Algorithms:
+#### Graph Path Algorithms
 - [ ] Ham Cycle/Ham Path
 - [ ] TSP
 - [ ] Djikstra's, Bellman Ford
 - [ ] Prims
 
-#### Graph Component Problems:
+#### Graph Component Problems
 - [ ] SCC graph
 - [ ] Topological Sorts
 
-#### Combinatorial:
+#### Combinatorial
 - [ ] Sudoku, Chess Queens
 - [ ] Generate all Permutations of a set
 
